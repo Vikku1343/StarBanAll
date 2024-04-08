@@ -1,6 +1,6 @@
 <h3 align="center"><strong><code>BanallBot 🚀</code></strong></h3>
 
-<img src="https://github.com/itzshukla/STRANGER-BANALL" alt="Unable To serve You">
+<img src="https://github.com/Vikku1343/StarBanAll" alt="Unable To serve You">
 <blockquote>
 <strong><i>❍&nbsp;Telegram banall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
@@ -24,7 +24,7 @@
 </details><details>
 <summary><h4><strong>❍&nbsp;Deploy On Heroku 🚀.</strong></h4></summary>
 <blockquote><strong>Hey You can deploy this bot on <code>Heroku</code> very easly from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=https://github.com/itzshukla/STRANGER-BANALL"><img src="https://img.shields.io/badge/Deploy%20To%20HerokBanallp?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Vikku1343/StarBanAll"><img src="https://img.shields.io/badge/Deploy%20To%20HerokBanallp?style=for-the-badge&logo=heroku" width="200""/></a>
 </blockquote> 
 </details>
 </p>
@@ -32,18 +32,18 @@
 <h3><strong><i>Forks nd Stars🍽️</i></strong></h3>
 <pre>
 <p align="center">
-<img src="https://img.shields.io/github/license/itzshukla/STRANGER-BANALL.svg"> <img src="https://img.shields.io/github/forks/itzshukla/STRANGER-BANALL.svg"> <img src="https://img.shields.io/github/stars/itzshukla/STRANGER-BANALL.svg">
-<a href="https://github.com/itzshukla/STRANGER-BANALL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-BANALL&theme=blue-green"></a>
-<a href="https://github.com/itzshukla/STRANGER-BANALL/fork"><img src="https://img.shields.io/badge/Fork%20STRANGER-BANALL%20-black?style=for-the-badge&logo=github"></a>
+<img src="https://img.shields.io/github/license/Vikku1343/StarBanAll.svg"> <img src="https://img.shields.io/github/forks/Vikku1343/StarBanAll.svg"> <img src="https://img.shields.io/github/stars/Vikku1343/StarBanAll.svg">
+<a href="https://github.com/Vikku1343/StarBanAll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikku1343repo=StarBanAll&theme=blue-green"></a>
+<a href="https://github.com/Vikku1343//fork"><img src="https://img.shields.io/badge/Fork%20StarBanAll%20-black?style=for-the-badge&logo=github"></a>
 </P>
 </pre>
 </p>
 <p>
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
-<strong>All credit Goes To</strong>&nbsp;<code>𝐒𝐇𝐈𝐕𝐀𝐍𝐒𝐇 𝐒𝐇𝐔𝐊𝐋𝐀 𓆩💗𓆪</code><br>
+<strong>All credit Goes To</strong>&nbsp;<code>VILLAIN BOY 𓆩💗𓆪</code><br>
 <code>Telegram:- <a href="https://t.me/SHIVANSH39">ＹＯUＲ S H I V A N S H،"(💛</a></code><br>
-<code>Github:- <a href="https://github.com/itzshukla">itzshukla</a></code><br>
+<code>Github:- <a href="https://github.com/Vikku1343>StarBanAllikku1343</a></code><br>
 </details>
 </p>
 
