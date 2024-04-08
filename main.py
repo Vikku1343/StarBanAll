@@ -1,6 +1,6 @@
-# Powered by @itzshukla | TELE:- @SHIVANSH474
+# Powered by Staarrrrrkingg | TELE:- @Staarrrrrkingg
 # Dear Pero ppls Plish Don't remove this line from here🌚
-# created by SHASHANK SHUKLA
+# created by Villain Boy
 import logging
 import re
 import os
