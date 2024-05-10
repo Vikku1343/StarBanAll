@@ -1,4 +1,4 @@
-# Powered by Staarrrrrkingg | Tele:- Staarrrrrkingg
+# Powered by THE_UNIVERSE_BOSSS | Tele:- THE_UNIVERSE_BOSSS
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by by only you
 # Kangers ki mkc
@@ -18,7 +18,7 @@ __ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴍᴀsᴛᴇʀ 🔥!
 **ᴍʏ ʟɪʙ's ɪɴғᴏ!**
 ❍ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ » `{}`
 ❍ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ » `{}`
-❍ ᴄᴏᴅᴇ ᴏᴡɴᴇʀ » [⳽τⲇⲅ қⳕⲛⳋ](https://t.me/Staarrrrrkingg)
+❍ ᴄᴏᴅᴇ ᴏᴡɴᴇʀ » [♧ 𝐁 𝐨 𝐬 𝐬 ♧](https://t.me/THE_UNIVERSE_BOSSS)
 
 ᴛʏᴘᴇ /help ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs!
 """
@@ -31,7 +31,7 @@ __ᴛʜɪs ɪs ʙᴀɴᴀʟʟ ʙᴏᴛ\ɴᴏɴʟʏ ᴍʏ ᴏᴡɴᴇʀ ᴄᴀɴ 
 **ᴍʏ ʟɪʙ's ɪɴғᴏ!**
 ❍ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ » `{}`
 ❍ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ » `{}`
-❍ ᴄᴏᴅᴇ ᴏᴡɴᴇʀ » [sᴛʀᴀɴɢᴇʀ](https://t.me/Staarrrrrkingg)
+❍ ᴄᴏᴅᴇ ᴏᴡɴᴇʀ » [sᴛʀᴀɴɢᴇʀ](https://t.me/THE_UNIVERSE_BOSSS)
 """
 
 hlptxt = """ ᴍᴇᴏᴡ [{}](tg://user?id={}),
@@ -44,5 +44,5 @@ __ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ᴍᴇɴᴜ__:
 ❅ /leave - ᴛᴏ ʟᴇᴀᴠᴇ ɢʀᴏᴜᴘ.
 ❅ /restart - ᴛᴏ ʀᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.
 
-❍ ғᴀᴄɪɴɢ ᴀɴʏ kind ᴏғ ɪssᴜᴇ ᴛʜᴇɴ ᴊᴜsᴛ ᴊᴏɪɴ ᴏᴜʀ [sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/Ishq_Sukoon) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ!!
+❍ ғᴀᴄɪɴɢ ᴀɴʏ kind ᴏғ ɪssᴜᴇ ᴛʜᴇɴ ᴊᴜsᴛ ᴊᴏɪɴ ᴏᴜʀ [sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/TheImaginationWorld) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ!!
 """
