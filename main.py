@@ -43,7 +43,7 @@ Owner = "Staarrrrrkingg"
 repo = "https://github.com/Vikku1343/StarBanAll"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/Ishq_Sukoon"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/VillainBots"), Button.url("••ʀᴇᴘᴏ••", "https://telegra.ph/file/9993243dfaa5896ad9143.jpg")]
+    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/TheImaginationWorld"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/Moment_Hai_Vaaii"), Button.url("••ʀᴇᴘᴏ••", "https://telegra.ph/file/9993243dfaa5896ad9143.jpg")]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -77,7 +77,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/Ishq_Sukoon"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/VillainBots"),
+    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/TheImaginationWorld"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/Moment_Hai_Vaaii"),
     Button.url("••ʀᴇᴘᴏ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
