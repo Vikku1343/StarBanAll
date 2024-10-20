@@ -1,4 +1,4 @@
-# Powered by Staarrrrrkingg | TELE:- @@Staarrkinggg
+# Powered by Staarrrrrkingg | TELE:- @Staarrkinggg
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by Villain Boy
 import logging
