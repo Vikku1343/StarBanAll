@@ -1,4 +1,4 @@
-# Powered by Staarrrrrkingg | TELE:- @Staarrrrrkingg
+# Powered by Staarrrrrkingg | TELE:- @@Staarrkinggg
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by Villain Boy
 import logging
@@ -28,9 +28,9 @@ API_ID = int(os.getenv("API_ID", ""))
 API_HASH = os.getenv("API_HASH", "")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 OWNER_ID = os.getenv("OWNER_ID", "")
-SUDO_ID = "6959572792"
-LUCIFER = "6959572792"
-COWNER_ID = "6959572792"
+SUDO_ID = "6640881844"
+LUCIFER = "6640881844"
+COWNER_ID = "6640881844"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(LUCIFER)]
 #TelegramClient..
 sree = TelegramClient(
@@ -43,7 +43,7 @@ Owner = "Staarrrrrkingg"
 repo = "https://github.com/Vikku1343/StarBanAll"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/TheImaginationWorld"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/Moment_Hai_Vaaii"), Button.url("••ʀᴇᴘᴏ••", "https://telegra.ph/file/9993243dfaa5896ad9143.jpg")]
+    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/Dilll_Se"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/Ishq_Sukoon"), Button.url("••ʀᴇᴘᴏ••", "https://telegra.ph/file/9993243dfaa5896ad9143.jpg")]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -77,7 +77,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/TheImaginationWorld"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/Moment_Hai_Vaaii"),
+    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/Dilll_Se"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/Ishq_Sukoon"),
     Button.url("••ʀᴇᴘᴏ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
@@ -177,7 +177,7 @@ async def ver(events):
 
 
 print("ʏᴏᴜʀ ʙᴏᴛ  ᴅᴇᴘʟᴏʏᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅")
-print("ᴊᴏɪɴ @VillainBots ɪғ ʏᴏᴜ ғᴀᴄɪɴɢ ᴀɴʏ ᴋɪɴᴅ ᴏғ ɪssᴜᴇ!!")
+print("ᴊᴏɪɴ @notyourrfan ɪғ ʏᴏᴜ ғᴀᴄɪɴɢ ᴀɴʏ ᴋɪɴᴅ ᴏғ ɪssᴜᴇ!!")
 
 
 
